@@ -362,7 +362,7 @@ function Addproduct() {
                   }}
                 >
                   <MenuItem value="NIKE">NIKE</MenuItem>
-                  <MenuItem value="PUME">PUMA</MenuItem>
+                  <MenuItem value="PUMA">PUMA</MenuItem>
                   <MenuItem value="ADIDAS">ADIDAS</MenuItem>
                   <MenuItem value="NB">NB</MenuItem>
                   <MenuItem value="ALL">ALL</MenuItem>
